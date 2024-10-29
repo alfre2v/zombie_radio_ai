@@ -37,12 +37,12 @@ To be conducted.
 
 
 ```text
->>> Write a story about zombies and halloween about 4 characters in an undersground research laboratory where an accident happened to release
+>>> Write a story about zombies and halloween about 4 characters in an underground research laboratory where an accident happened to release
 ...  a deadly virus that turn people into zombies. The 4 characters are trapped down in the lab and cannot escape due to security protocols. 
 ... I describe some elements of each character of the story: 1. Dr. Edwin Kund, a man in his early 50s, head of the lab, he has all the secre
-... ts and is the one more directly responsible for the disaster; 2. Dr. Hanna Brie, a woman in her late 30s, research biologist especialized
+... ts and is the one more directly responsible for the disaster; 2. Dr. Hanna Brie, a woman in her late 30s, research biologist specialized
 ...  in exotic virus; 3. Miss Betty Campbell, a young woman in her early 20s, she is the secretary of Dr. Kund; and 4. Dr. Alfred Valles, nuc
-... lear phycisist responsible for the nuclear reactor powering the lab and for the multiple gamma ray sources used in the lab to induce acce
+... lear physicist responsible for the nuclear reactor powering the lab and for the multiple gamma ray sources used in the lab to induce acce
 ... larated mutations in viruses. Make the story narrated from the perspective of Dr. Alfred Valles, i.e. narrated in first person. Try to ma
 ... ke the story scary but also fun.
  Sure, I'd be happy to help you with that! Here's a short horror-themed story based on your description:
